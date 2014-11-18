@@ -1,0 +1,15 @@
+G:\OOP\HW2\HW2\bin\Debug\HW2.exe.config
+J:\OOP\HW2\HW2\bin\Debug\HW2.exe.config
+E:\OOP\HW2\HW2\bin\Debug\HW2.exe.config
+J:\OOP\HW2\HW2\bin\Debug\HW2.exe
+J:\OOP\HW2\HW2\bin\Debug\HW2.pdb
+J:\OOP\HW2\HW2\obj\Debug\HW2.exe
+J:\OOP\HW2\HW2\obj\Debug\HW2.pdb
+E:\OOP\HW2\HW2\obj\Debug\HW2.exe
+E:\OOP\HW2\HW2\obj\Debug\HW2.pdb
+E:\OOP\HW2\HW2\bin\Debug\HW2.exe
+E:\OOP\HW2\HW2\bin\Debug\HW2.pdb
+E:\OOP\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+J:\OOP\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
+G:\OOP\HW2\HW2\obj\Debug\HW2.exe
+G:\OOP\HW2\HW2\obj\Debug\HW2.pdb
