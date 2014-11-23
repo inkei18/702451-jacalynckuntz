@@ -55,6 +55,7 @@ namespace gametry3
 
         private void SetUpPlayers()
         {
+            // Flyweight
             Color[] playerColors = new Color[10];
             playerColors[0] = Color.HotPink;
             playerColors[1] = Color.BlueViolet;
@@ -88,7 +89,7 @@ namespace gametry3
             
             spriteBatch = new SpriteBatch(GraphicsDevice);
             device = graphics.GraphicsDevice;
-            backgroundTexture = Content.Load<Texture2D>("gamebg");
+            backgroundTexture = Content.Load<Texture2D>("gamebg"); // Factory
             screenWidth = device.PresentationParameters.BackBufferWidth;
             screenHeight = device.PresentationParameters.BackBufferHeight;
             foregroundTexture = Content.Load<Texture2D>("foreground");
