@@ -1,0 +1,10 @@
+G:\OOP\gametry3\gametry3\gametry3\bin\x86\Debug\Content\gamebg.xnb
+G:\OOP\gametry3\gametry3\gametry3\bin\x86\Debug\Content\foreground.xnb
+G:\OOP\gametry3\gametry3\gametry3\bin\x86\Debug\Content\army2.xnb
+G:\OOP\gametry3\gametry3\gametry3\bin\x86\Debug\Content\launcher2.xnb
+G:\OOP\gametry3\gametry3\gametry3\bin\x86\Debug\gametry3.exe
+G:\OOP\gametry3\gametry3\gametry3\bin\x86\Debug\gametry3.pdb
+G:\OOP\gametry3\gametry3\gametry3\obj\x86\Debug\gametry3.csprojResolveAssemblyReference.cache
+G:\OOP\gametry3\gametry3\gametry3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\OOP\gametry3\gametry3\gametry3\obj\x86\Debug\gametry3.exe
+G:\OOP\gametry3\gametry3\gametry3\obj\x86\Debug\gametry3.pdb

@@ -1,0 +1,4 @@
+Content\gamebg.xnb
+Content\foreground.xnb
+Content\army2.xnb
+Content\launcher2.xnb
